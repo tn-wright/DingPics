@@ -1,5 +1,5 @@
 ## Interface: 11302
-## Author: fouronnes
+## Author: fouronnes & Index23
 ## Title: DingPics
 ## Notes: Automatically save a screenshot when you level-up
 
