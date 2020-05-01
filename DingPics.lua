@@ -1,4 +1,4 @@
-local frame = CreateFrame("DingPicsFrame")
+local frame = CreateFrame("Frame")
 
 local mapShown = false
 local bagsShown = false
